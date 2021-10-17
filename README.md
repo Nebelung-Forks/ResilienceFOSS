@@ -1,4 +1,4 @@
-# ResilienceOSS
+# ResilienceFOSS
 A simple frontend for [Corrosion](https://github.com/titaniumnetwork-dev/corrosion)
 
 ## Note 
