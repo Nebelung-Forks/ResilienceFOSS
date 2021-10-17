@@ -25,6 +25,8 @@ const
     }),
     server = http/*s*/.createServer(/*ssl, */app);
 
+//Uncomment all comments (excluding this one) if you would like to use https
+
 app.get('/community', function(req, res){
     res.sendFile('/community.html', { root: __dirname + '/public'});
 });
